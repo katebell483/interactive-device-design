@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Sun Sep 10 17:00:52 PDT 2017
+1.base=/Users/kate/Desktop/berk_dev/294_084/hw2_katebell483_multitap/picoproapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6247b996657c1c54c74f29b8e02529584111545a
+4.file=/Users/kate/Desktop/berk_dev/294_084/hw2_katebell483_multitap/picoproapp/build/intermediates/res/resources-debug.ap_/res/layout/textlayout.xml
+1.file=/Users/kate/Desktop/berk_dev/294_084/hw2_katebell483_multitap/picoproapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6247b996657c1c54c74f29b8e02529584111545a/classes.dex
+4.set=ANDROID_RESOURCE
+2.base=/Users/kate/Desktop/berk_dev/294_084/hw2_katebell483_multitap/picoproapp/build/intermediates/res/resources-debug.ap_
+3.set=DEX
+2.set=ANDROID_RESOURCE
+2.file=/Users/kate/Desktop/berk_dev/294_084/hw2_katebell483_multitap/picoproapp/build/intermediates/res/resources-debug.ap_/resources.arsc
+count=5
+1.set=DEX
+3.base=/Users/kate/Desktop/berk_dev/294_084/hw2_katebell483_multitap/picoproapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2839f23c4f8016d5c28edc2db9b4bff5c13d1711
+0.set=ANDROID_RESOURCE
+0.base=/Users/kate/Desktop/berk_dev/294_084/hw2_katebell483_multitap/picoproapp/build/intermediates/res/resources-debug.ap_
+3.file=/Users/kate/Desktop/berk_dev/294_084/hw2_katebell483_multitap/picoproapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2839f23c4f8016d5c28edc2db9b4bff5c13d1711/classes.dex
+0.file=/Users/kate/Desktop/berk_dev/294_084/hw2_katebell483_multitap/picoproapp/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+4.base=/Users/kate/Desktop/berk_dev/294_084/hw2_katebell483_multitap/picoproapp/build/intermediates/res/resources-debug.ap_
